@@ -1,0 +1,63 @@
+body {
+    background: #F5F4F4;
+    margin-left: 300px;  
+    margin-right: 300px;
+    margin-top: 50px;
+    margin-bottom: auto;
+}
+
+/* --------- Img --------- */
+
+.perso--img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.main__fond {
+    background-color: #D1D1D1;   
+    display: block;
+    overflow: auto;
+    margin-top: -50px;
+}
+
+    .main__fond--text {
+        font-size: 48px;
+        color: #FFF;
+        font-family: 'Droid Sans', serif;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+
+/* --------- Text --------- */
+
+.container {
+    font-family: 'Istok Web', serif;
+    padding: 2em;
+}
+
+/* --------- Footer --------- */
+
+.section__footer {
+    overflow: auto;
+}
+
+.section__footer--img {
+    background-color: #333333;
+    display: block;
+    overflow: auto;
+}
+
+.style__text {
+    color: #FFF;
+    font-family: 'Droid Sans', serif;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 40px;
+}
+
+.style__text--sp {
+    padding: 0 15px 0;
+}
